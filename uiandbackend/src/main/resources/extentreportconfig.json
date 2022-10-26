@@ -1,0 +1,12 @@
+{
+  "theme": "STANDARD",
+  "encoding": "utf-8",
+  "protocol": "HTTPS",
+  "timelineEnabled": true,
+  "thumbnailForBase64": true,
+  "documentTitle": "Promotion_Suite_UI_Test_Suite",
+  "reportName": "Promotin Suite UI Test Report",
+  "timeStampFormat": "MMM dd, yyyy HH:mm:ss a",
+  "js": "",
+  "css": ""
+}
